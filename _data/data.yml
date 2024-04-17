@@ -13,22 +13,22 @@ sidebar:
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: bensullivan2002@mail.com
+    mobile: +44 (0)7734 866 327
+    timezone: GMT (London)
+    # citizenship: British
+    website: bigben.codes #do not add http://
+    linkedin: benjaminrobertsullivan
+    # xing: alandoe
+    github: bensullivan2002
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    stack-overflow: 7947011/ben-sullivan # Number/Username, e.g. 123456/alandoe
+    codewars: bensullivan2002
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: 
 
     languages:
       title: Languages
@@ -36,23 +36,23 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        # - idiom: French
+        #   level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        # - idiom: Spanish
+        #   level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Rowing
           link:
 
         - item: Snowboarding
           link:
 
-        - item: Cooking
-          link:
+        # - item: Cooking
+        #   link:
 
 career-profile:
     title: Career Profile
