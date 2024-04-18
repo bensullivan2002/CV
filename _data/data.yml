@@ -67,17 +67,29 @@ career-profile:
       a sustainable future.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Tech Skills
 
     toolset:
       - name: Python
         level: 70%
 
-      - name: Git & GitHub
-        level: 60%
-
       - name: SQL
         level: 50%
+
+      - name: Java
+        level: 40%
+
+      - name: Jupyter/JupyterLab
+        level: 60%
+
+      - name: Git & Github
+        level: 60%
+
+      - name: Docker
+        level: 20%
+
+      - name: AWS CDK
+        level: 20%
 
       # - name: Javascript & jQuery
       #   level: 98%
