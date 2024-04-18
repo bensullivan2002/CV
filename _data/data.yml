@@ -77,7 +77,7 @@ skills:
         level: Flask
 
       - name: Tools
-        level: Git, GitHub, Jupyter/JupyterLab, Docker, AWS CDK, Mermaid, Draw.io, Sphinx
+        level: Git, Jupyter, Docker, AWS CDK, Mermaid, Draw.io, Sphinx
 
       - name: Methodologies
         level: TDD, pairing
