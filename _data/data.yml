@@ -73,23 +73,24 @@ skills:
       - name: Languages
         level: Python, Java, SQL
 
-      - name: SQL
-        level: 50%
+      - name: Frameworks
+        level: Flask
 
-      - name: Java
-        level: 40%
+      - name: Tools
+        level: Git, GitHub, Jupyter/JupyterLab, Docker, AWS CDK, Mermaid, Draw.io,
+            Sphinx
 
-      - name: Jupyter/JupyterLab
-        level: 60%
+      - name: Methodologies
+        level: TDD, pairing
 
-      - name: Git & Github
-        level: 60%
+      - name: Operating Systems
+        level: macOS, Linux, Windows
 
-      - name: Docker
-        level: 20%
+      - name: Other
+        level: Markdown, UML
 
-      - name: AWS CDK
-        level: 20%
+      # - name: 
+      #   level: 
 
       # - name: Javascript & jQuery
       #   level: 98%
