@@ -217,7 +217,7 @@ projects:
 
       - title: This CV!
         # link: "#"
-        tagline: "Deploying via GitHub Pages with a Jekyll has been a very enjoyable challenge in itself."
+        tagline: "Deploying via GitHub Pages with Jekyll has been a very enjoyable challenge in itself."
 
 # oss:
 #     title: OSS Contributions
