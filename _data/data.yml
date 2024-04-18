@@ -205,9 +205,9 @@ projects:
         link: "http://bigben.codes"
         tagline: "Used AWS CDK CLI to deploy my static website in an AWS S3 bucket, and route my Route 53 domain to it."
 
-      # - title: Delta
-      #   link: "#"
-      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Katas on Leetcode, Exercism, Hackerrank, Codewars, and Coderbyte
+        link: "#"
+        tagline: ""
 
 # oss:
 #     title: OSS Contributions
