@@ -138,17 +138,16 @@ experiences:
         time: August 2021 - March 2024
         company: IMV imaging, Glasgow
         details: |
-            - Developed a sales dashboard using PowerBI, enhancing real-time 
-              decision-making and identifying key performance metrics.
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Developed a sales dashboard using PowerBI, enhancing real-time 
+            decision-making and identifying key performance metrics.
+          - Built a web scraper with BeautifulSoup to scrape UK veterinary 
+            practice data, then mapped in PowerBI to identify and target 
+            potential new customers
+      - role: 
+        time: 
+        company: 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
-            - Bullet point
-            - Bullet point
+          - 
 
 certifications:
       title: Certifications
