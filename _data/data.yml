@@ -184,22 +184,22 @@ certifications:
         #     Older certification.
 
 projects:
-    title: Projects
+    title: Projects & Activities
     # intro: >
     #   You can list your side projects in this
     #   section.
     assignments:
-      - title: TDD - 1:1 coaching from one of the authors of Agile Technical Practices Distilled
+      - title: "TDD - 1:1 coaching from one of the authors of Agile Technical Practices Distilled"
         # link: https://www.packtpub.com/product/agile-technical-practices-distilled/9781838980849
         tagline: "12 months of weekly 2-hour sessions giving me an introduction to TDD"
 
-      # - title: 
-      #   link: 
-      #   tagline: ""
+      - title: "Reinvigorated an old desktop PC by formatting as an Arch Linux system"
+        # link: 
+        tagline: "A great way to learn about Linux!"
 
-      # - title: Tempo
-      #   link: "#"
-      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Exeter PyData Meet-Ups
+        link: "https://www.meetup.com/pydata-exeter/"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       # - title: Atom
       #   link: "#"
