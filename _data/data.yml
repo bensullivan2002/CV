@@ -185,12 +185,12 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section.
+    # intro: >
+    #   You can list your side projects in this
+    #   section.
     assignments:
       - title: TDD - 1:1 coaching from one of the authors of Agile Technical Practices Distilled
-        link: https://www.packtpub.com/product/agile-technical-practices-distilled/9781838980849
+        # link: https://www.packtpub.com/product/agile-technical-practices-distilled/9781838980849
         tagline: "12 months of weekly 2-hour sessions giving me an introduction to TDD"
 
       # - title: 
