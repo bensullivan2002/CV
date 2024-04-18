@@ -193,7 +193,7 @@ projects:
     assignments:
       - title: "TDD - 1:1 coaching"
         # link: 
-        tagline: "12 months of weekly 2-hour sessions giving me an introduction to TDD"
+        tagline: "12 months of weekly 2-hour sessions giving me an introduction to TDD, as well as data structures and algorithms in Python."
 
       - title: "Reinvigorated an old desktop PC by formatting as an Arch Linux system"
         # link: 
@@ -214,6 +214,10 @@ projects:
       - title: Building a RaspberryPi-controlled car with my son
         # link: "#"
         # tagline: ""
+
+      - title: This CV!
+        # link: "#"
+        tagline: "Deploying via GitHub Pages with a Jekyll has been a very enjoyable challenge in itself."
 
 # oss:
 #     title: OSS Contributions
