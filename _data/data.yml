@@ -60,11 +60,13 @@ sidebar:
 career-profile:
     title: Career Transition
     summary: |
-      Aspiring software engineer with a background in veterinary science and sales, 
-      and proven skills in communication, logical thinking, and continuous learning, 
-      seeking to apply my problem-solving skills and a passion for technology in a 
+      I am an aspiring software engineer with a background in veterinary science and sales, 
+      and proven skills in communication, logical thinking, and continuous learning. 
+      I'm seeking to apply my problem-solving skills and a passion for technology in a 
       dynamic software development team committed to using technology to help create
-      a sustainable future.
+      a sustainable futurefor our planet and our children. As a lifelong sailor I have deep 
+      interest in the work being done at Vaarst, and the opportunity to work in such a role 
+      feels almost too good to be true!
 
 skills:
     title: Tech Skills
@@ -206,6 +208,10 @@ projects:
         tagline: "Used AWS CDK CLI to deploy my static website in an AWS S3 bucket, and route my Route 53 domain to it."
 
       - title: Katas on Leetcode, Exercism, Hackerrank, Codewars, and Coderbyte
+        # link: "#"
+        # tagline: ""
+
+      - title: Building a RaspberryPi-controlled car with my son
         # link: "#"
         # tagline: ""
 
