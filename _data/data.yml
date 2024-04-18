@@ -70,8 +70,8 @@ skills:
     title: Tech Skills
 
     toolset:
-      - name: Python
-        level: 70%
+      - name: Languages
+        level: Python, Java, SQL
 
       - name: SQL
         level: 50%
