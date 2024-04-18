@@ -19,7 +19,7 @@ sidebar:
     # citizenship: British
     website: bigben.codes #do not add http://
     linkedin: benjaminrobertsullivan
-    # xing: alandoe
+    xing: Ben_Sullivan072322
     github: bensullivan2002
     # telegram: # add your nickname without '@' sign
     # gitlab:
@@ -46,13 +46,16 @@ sidebar:
       title: Interests
       info:
         - item: Rowing
-          link:
+          # link:
+
+        - item: Running
+        #   link:
+        
+        - item: Cycling
 
         - item: Snowboarding
-          link:
+          # link:
 
-        # - item: Cooking
-        #   link:
 
 career-profile:
     title: Career Profile
