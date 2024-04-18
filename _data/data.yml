@@ -109,10 +109,16 @@ skills:
 education:
     title: Education
     info:
-      - degree: Makers Academy
-        university: Software Development Bootcamp
+      - degree: Full-stack Software Development Bootcamp
+        university: Makers Academy (https://makers.tech/)
         time: March 2024 - Present
         details: |
+          Studying full-stack software development to facilitate my transition 
+          to software engineering.
+            - Finally managing to pursue a years-long dream,
+              vindicating my choice to pivot career - I've found my calling!
+            - Learning Python, SQL, Flask, Java, Git, TDD, pairing, debugging,
+              web and mobile development.
 
       - degree: BVSc in Veterinary Science
         university: University of Bristol
@@ -128,23 +134,12 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Student
-        time: March 2024 - Present
-        company: Makers Academy (https://makers.tech/)
-        details: |
-          Studying full-stack software development to facilitate my transition 
-          to software engineering.
-            - Finally managing to pursue a years-long dream,
-              vindicating my choice to pivot career - I've found my calling!
-            - Learning Python, SQL, Flask, Java, Git, TDD, pairing, debugging,
-            web and mobile development.
       - role: National Sales Manager
         time: August 2021 - March 2024
         company: IMV imaging, Glasgow
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
-            - Bullet point
+            - Developed a sales dashboard using PowerBI, enhancing real-time 
+              decision-making and identifying key performance metrics.
             - Bullet point
       - role: UI Developer
         time: 2012 - 2014
