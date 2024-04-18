@@ -48,23 +48,26 @@ sidebar:
         - item: Rowing
           # link:
 
-        - item: Running
-        #   link:
-        
-        - item: Cycling
+        - item: Sailing
+          # link:
 
-        - item: Snowboarding
+        - item: Cycling
+          # link:
+        
+        - item: Running
           # link:
 
 
+
 career-profile:
-    title: Career Profile
+    title: Career Transition
     summary: |
       Aspiring software engineer with a background in veterinary science and sales, 
-      and proven skills in communication and data analysis, seeking to apply 
-      problem-solving skills and a passion for technology in a dynamic software 
-      development team.
-      
+      and proven skills in communication, logical thinking, and continuous learning, 
+      seeking to apply my problem-solving skills and a passion for technology in a 
+      dynamic software development team committed to using technology to help create
+      a sustainable future.
+
 education:
     title: Education
     info:
