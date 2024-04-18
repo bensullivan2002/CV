@@ -128,14 +128,14 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Student
+        time: March 2024 - Present
+        company: Makers Academy (https://makers.tech/)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
-            - Bullet point
-            - Bullet point
+          Studying full-stack software development to facilitate my transition 
+          to software engineering.
+            - Finally managing to pursue a years-long dream
+            - Vindicating my choice to pivot career - I've found my calling!
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
