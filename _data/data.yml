@@ -143,11 +143,22 @@ experiences:
           - Built a web scraper with BeautifulSoup to scrape UK veterinary 
             practice data, then mapped in PowerBI to identify and target 
             potential new customers
-      - role: 
-        time: 
-        company: 
+
+      - role: Clinical Applications Team Manager
+        time: August 2018 - July 2021
+        company: IMV imaging
         details: |
-          - 
+          - Proposed a successful business case for a learning management 
+            system, allowing us to deliver modern blended learning courses
+            to customers and internal staff
+
+      - role: Clinical Applications Engineer
+        time: January 2017 - August 2018
+        company: IMV imaging / BCF Technology
+        details: |
+          - Learned basic electronic engineering and advanced ultrasonics
+            to allow me to work in the R&D team to develop an on-farm wireless 
+            ultrasound system based on FPGA architecture.
 
 certifications:
       title: Certifications
