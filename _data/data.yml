@@ -74,10 +74,10 @@ skills:
         level: 70%
 
       - name: Git & GitHub
-      level: 60%
+        level: 60%
 
-      - name: 
-        level: 70%
+      - name: SQL
+        level: 50%
 
       # - name: Javascript & jQuery
       #   level: 98%
