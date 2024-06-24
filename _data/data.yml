@@ -209,9 +209,9 @@ projects:
         link: "https://www.meetup.com/pydata-exeter/"
         # tagline: ""
 
-      - title: Personal website - very much a work in progress!
-        link: "http://bigben.codes"
-        tagline: "Used AWS CDK CLI to deploy my static website in an AWS S3 bucket, and route my Route 53 domain to it."
+      # - title: Personal website - very much a work in progress!
+      #   link: "http://bigben.codes"
+      #   tagline: "Used AWS CDK CLI to deploy my static website in an AWS S3 bucket, and route my Route 53 domain to it."
 
       - title: Katas on Leetcode, Exercism, Hackerrank, Codewars, and Coderbyte
         # link: "#"
