@@ -77,7 +77,7 @@ skills:
         level: Flask, Spring/Spring Boot, React, Jetpack Compose
 
       - name: Tools
-        level: Git, GitHub Projects, GitHub Actions, Trello, Jupyter, Docker,   Heroku, AWS CDK, Mermaid, Draw.io, Sphinx, Doxygen
+        level: Git, GitHub Projects, GitHub Actions, Trello, Jupyter, Docker, Heroku, AWS CDK, Mermaid, Draw.io, Sphinx, Doxygen
 
       - name: Methodologies
         level: TDD, pairing, Agile
