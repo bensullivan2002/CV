@@ -17,9 +17,9 @@ sidebar:
     mobile: +44 (0)7734 866 327
     timezone: GMT (London)
     # citizenship: British
-    website: bigben.codes #do not add http://
+    # website: bigben.codes #do not add http://
     linkedin: benjaminrobertsullivan
-    xing: Ben_Sullivan072322
+    # xing: Ben_Sullivan072322
     github: bensullivan2002
     # telegram: # add your nickname without '@' sign
     # gitlab:
@@ -188,6 +188,15 @@ projects:
     #   You can list your side projects in this
     #   section.
     assignments:
+      - title: "AirBnB Clone"
+        # link: 
+        tagline: "A group project to build a clone of the AirBnB website using Python/Flask."
+      - title: "Facebook Clone"
+        # link: 
+        tagline: "A group project to build a clone of the Facebook website using Java, Spring Boot, and Thymeleaf."
+      - title: "Private Messaging App"
+        # link: 
+        tagline: "A group project to build a secure messaging app based on WebSockets, using Python/Flask for the back end and Node.js/React for the front end."
       - title: "TDD - 1:1 coaching"
         # link: 
         tagline: "12 months of weekly 2-hour sessions giving me an introduction to TDD, as well as data structures and algorithms in Python."
