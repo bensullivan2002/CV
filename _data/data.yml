@@ -71,16 +71,16 @@ skills:
 
     toolset:
       - name: Languages
-        level: Python, Java, SQL
+        level: Python, Java, Kotlin, SQL, (Rust)
 
       - name: Frameworks
-        level: Flask
+        level: Flask, Spring/Spring Boot, React, Jetpack Compose
 
       - name: Tools
-        level: Git, Jupyter, Docker, AWS CDK, Mermaid, Draw.io, Sphinx
+        level: Git, GitHub Projects, GitHub Actions, Trello, Jupyter, Docker, Heroku, AWS CDK, Mermaid, Draw.io, Sphinx, Doxygen
 
       - name: Methodologies
-        level: TDD, pairing
+        level: TDD, pairing, Agile
 
       - name: Operating Systems
         level: macOS, Linux, Windows
@@ -117,8 +117,7 @@ education:
           to software engineering.
             - Finally managing to pursue a years-long dream,
               vindicating my choice to pivot career - I've found my calling!
-            - Learning Python, SQL, Flask, Java, Git, TDD, pairing, debugging,
-              web and mobile development.
+            - Learning Python, SQL, Flask, Java, Kotlin, Git, TDD, pairing, debugging, web and mobile development.
 
       - degree: BVSc in Veterinary Science
         university: University of Bristol
